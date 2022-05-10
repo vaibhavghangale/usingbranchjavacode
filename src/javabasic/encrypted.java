@@ -15,7 +15,7 @@ public class encrypted {
 	System.out.println(name);
 	StringBuilder sb=new StringBuilder();
 	for(String sb1:name) {
-		
+			
 	System.out.println(sb1); 
 	
 	}
